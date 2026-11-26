@@ -1,4 +1,6 @@
-# motion-curves
+# EASE: Easing And Smooth Equations
+
+Formerly `motion-curves`.
 
 Easing curves for animation, written as plain maths you can check, with tables and exports for Manim, Remotion or CSS.
 
