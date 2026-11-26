@@ -1,4 +1,4 @@
-# EASE: Easing And Smooth Equations
+# DINOSTRATUS: named after Dinostratus, who used the quadratrix, a curve drawn by two steady movements
 
 Formerly `motion-curves`.
 
